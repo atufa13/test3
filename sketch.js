@@ -8,7 +8,7 @@ let engine;
 let world;
 var ball;
 var ground;
-var hi,ji;
+var hi,ji,JI;
 
 function setup() {
   createCanvas(400,400);
